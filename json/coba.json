@@ -1,0 +1,18 @@
+[
+{
+   "nama":"wildan",
+   "umur":"21",
+   "nip" :"2217020158",
+   "lulus":false,
+   "hobby":["football","gaming","cooking"],
+   "pembimbing":"novia lestari"
+},
+{
+   "nama":"wildan",
+   "umur":"21",
+   "nip" :"2217020158",
+   "lulus":false,
+   "hobby":["football","gaming","cooking"],
+   "pembimbing":"novia lestari"
+}
+]
